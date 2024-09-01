@@ -73,4 +73,4 @@ Si encuentras algún problema o tienes sugerencias para mejorar las actividades,
 
 ## Contacto
 
-Para cualquier consulta relacionada con el contenido del diplomado, por favor contacta a [tu nombre] a través de [tu correo electrónico].
+Para cualquier consulta relacionada con el contenido del diplomado, por favor envía un correo electrónico a mauricio.od@merida.tecnm.mx. 
